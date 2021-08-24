@@ -35,12 +35,25 @@ canvas
     border: 2px solid white;
     border-radius: 10px;
     margin: 10px;
-    box-shadow: 5px 5px 5px white;
+    box-shadow: 25px 15px 35px rgb(0, 0, 0);
     margin-top: 100px;
 }
-    
+
 
 #start:hover{
  background: rgb(0,255,230);
     background: linear-gradient(90deg, rgba(0,255,230,1) 0%, rgba(0,10,255,1) 100%);
 }
+h3{
+    color: white;
+    background-color: black;
+    margin-top: 0px;
+}
+
+input
+{
+    height:50px ;
+    width: 1200px;
+    color: red  ;
+}
+
